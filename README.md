@@ -1,4 +1,4 @@
-# ColabDesig
+# ColabDesignn
 ### Making Protein Design accessible to all via Google Colab! 
 - P(structure | sequence)
   - [TrDesign](/tr) - using TrRosetta for design
